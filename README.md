@@ -99,12 +99,6 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 🔒 License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork, submit issues or PRs.
