@@ -1,6 +1,7 @@
 streamlit
 opencv-python-headless
 transformers
+torch
 Pillow
 imageio
 tqdm
